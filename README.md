@@ -2,8 +2,6 @@
 
 Hi, I'm Pretender324.
 
-- A fourth year student
-- Studying economics
 - Swimming
 - TypeScript, Python, Go, Ruby, etc.
 - Front-end, Back-end
